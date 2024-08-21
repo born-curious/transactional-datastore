@@ -1,0 +1,8 @@
+com/transactional/threadcontext/ThreadContextManager.class
+com/transactional/datastore/TransactionalMapDatastore.class
+com/transactional/datastore/TransactionalDatastore.class
+com/transactional/proxy/TransactionalProxy.class
+com/transactional/models/DatastoreTransaction.class
+com/transactional/annotation/Transactional.class
+com/transactional/datastore/impl/TransactionalMapDatastoreImpl.class
+com/transactional/manager/TransactionManager.class
